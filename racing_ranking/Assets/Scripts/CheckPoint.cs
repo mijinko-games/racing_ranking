@@ -16,7 +16,6 @@ public class CheckPoint : MonoBehaviour
     static public CheckPoint StartPoint => list[0];
 
     //自分自身をlistにつなげていきます
-    //sortedListなので、自動的にindexの順番に並びます
     void Awake()
     {
         list.Add(this);
