@@ -14,4 +14,4 @@ https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-cars-101798
 
 
 ---
-https://mijinko-games.com/
+https://mijinko-games.com/realtime_ranking_of_car_racing_game/
