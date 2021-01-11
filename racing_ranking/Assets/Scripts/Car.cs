@@ -92,7 +92,7 @@ public class Car : MonoBehaviour
 
         if (nowCheckPoint.CheckIfPassed(p0, p1))
         {
-            Debug.Log("next");
+            //チェックポイント通過
             nowCheckPoint = nowCheckPoint.nextCheckPoint;
             _checkCount++;
         }
